@@ -216,8 +216,8 @@
 **Dataset:** [Spotify Dataset no Kaggle](https://www.kaggle.com/datasets/jessevent/all-spotify-songs)
 
 
-![image.png](images\ba71d88b-a29f-4e5a-94d0-1126073c3e4e.jpg)
-![image.png](images\da99f43f-6544-49d5-9d21-9ef0a5a87242.jpg)
+![image.jpg](images\ba71d88b-a29f-4e5a-94d0-1126073c3e4e.jpg)
+![image.jpg](images\da99f43f-6544-49d5-9d21-9ef0a5a87242.jpg)
 
 ---
 
