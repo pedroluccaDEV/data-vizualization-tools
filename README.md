@@ -1,3 +1,7 @@
+<!-- Banner no topo -->
+<img src="https://pipluspi.com/wp-content/uploads/2020/08/Data-Visualization-service-banner-1.jpg" alt="Banner" style="width: 100%; height: auto;">
+
+
 # 🌐 Visualização de Dados
 
 > Este estudo documenta a comparação entre quatro ferramentas de visualização de dados: **Power BI, Looker Studio, Tableau e Streamlit**. O objetivo é avaliar suas capacidades e identificar qual oferece a melhor experiência em termos de usabilidade, personalização, recursos e desempenho.
@@ -213,6 +217,18 @@
 
 
 ![image.png](images\ba71d88b-a29f-4e5a-94d0-1126073c3e4e.jpg)
-
 ![image.png](images\da99f43f-6544-49d5-9d21-9ef0a5a87242.jpg)
+
+---
+
+### Conclusão
+
+O estudo comparou quatro ferramentas de visualização de dados: Power BI, Looker Studio, Tableau e Streamlit, com foco em usabilidade, personalização, recursos e desempenho.
+
+- **Power BI** foi a ferramenta que se destacou por sua facilidade de uso, interface intuitiva e grande variedade de funcionalidades. Além disso, a integração com outras ferramentas da Microsoft e a flexibilidade na personalização dos gráficos e dashboards foram grandes pontos positivos. Embora a versão web tenha limitações, a versão desktop oferece ainda mais recursos, tornando o Power BI a ferramenta mais completa e eficiente, especialmente para usuários que já estão familiarizados com o ecossistema Microsoft. A única desvantagem é a limitação de recursos na versão gratuita e compatibilidade restrita com sistemas operacionais não-Microsoft.
+- **Streamlit** é uma excelente ferramenta para quem tem experiência em programação, pois permite uma personalização avançada e integração com bibliotecas Python como Matplotlib, Seaborn e Plotly. A criação de dashboards é ágil, mas a curva de aprendizado é mais acentuada, principalmente para quem não tem experiência com código. A flexibilidade e a possibilidade de criar aplicativos interativos são grandes pontos a favor, mas o fato de exigir conhecimento técnico e configuração prévia coloca a ferramenta em segundo lugar no ranking.
+- **Looker Studio** é uma ferramenta gratuita e eficiente para quem já utiliza o ecossistema Google. Oferece boas opções de personalização e integração com produtos como Google Sheets e BigQuery, além de permitir colaboração em tempo real. No entanto, sua curva de aprendizado é mais difícil, e a interface não é tão intuitiva quanto as demais. Além disso, a ferramenta apresentou limitações, como a falta de reconhecimento de campos geográficos e uma dependência de conectores de terceiros. Isso o coloca em terceiro lugar.
+- **Tableau** é eficiente na criação de gráficos e na importação de dados, mas sua personalização de dashboards é limitada. A criação de painéis interativos é mais difícil em comparação com outras ferramentas, e a versão paga é necessária para acessar muitos recursos avançados. Apesar do bom desempenho e das opções de gráficos, o custo elevado e a falta de flexibilidade na construção de painéis colocam o Tableau em quarto lugar.
+
+A escolha da ferramenta depende do nível de experiência do usuário e das necessidades específicas do projeto, como custo, flexibilidade e integração com outras plataformas.
 
